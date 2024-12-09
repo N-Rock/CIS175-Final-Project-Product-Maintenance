@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context antiJARLocking="true" path="/ProductMaintenance">
+  <Resource auth="Container" driverClassName="com.mysql.cj.jdbc.Driver" maxIdle="10" maxTotal="20" maxWaitMillis="-1" name="jdbc/music" password="LastRockNVS#050905" type="javax.sql.DataSource" url="jdbc:mysql://localhost:3306/music" username="root"/>
+</Context>
